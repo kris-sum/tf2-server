@@ -1,0 +1,15 @@
+L 03/01/2015 - 19:14:48: SourceMod log file session started (file "L20150301.log") (Version "1.7.0")
+L 03/01/2015 - 19:14:48: -------- Mapchange to ctf_2fort --------
+L 03/01/2015 - 19:15:00: [UPDATER] Successfully updated gamedata file "core.games/blacklist.plugins.txt"
+L 03/01/2015 - 19:15:00: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.insurgency.txt"
+L 03/01/2015 - 19:15:00: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 03/01/2015 - 19:20:46: Log file closed.
+L 03/01/2015 - 19:21:08: SourceMod log file session started (file "L20150301.log") (Version "1.7.0")
+L 03/01/2015 - 19:21:08: -------- Mapchange to ctf_2fort --------
+L 03/01/2015 - 19:28:56: -------- Mapchange to pl_barnblitz --------
+L 03/01/2015 - 19:47:33: [SM] Changed map to "tc_hydro"
+L 03/01/2015 - 19:47:37: -------- Mapchange to tc_hydro --------
+L 03/01/2015 - 20:06:27: [SM] Changed map to "ctf_well"
+L 03/01/2015 - 20:06:29: -------- Mapchange to ctf_well --------
+L 03/01/2015 - 20:19:33: [SM] Changed map to "cp_badlands"
+L 03/01/2015 - 20:19:38: -------- Mapchange to cp_badlands --------
